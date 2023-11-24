@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+main{
+    height: 100%;
+    background-image: url("/b.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white; 
+}
+
+header{
+    background-color: gray;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    top: 0;
+    position: fixed;
+    width: 100%;
+}
+.container-fluid{
+    padding-left: 50%;
+}
+.collapse navbar-collapse{
+    text-decoration: none;
+    text-align: center;
+}
+.nav-item{
+    padding-right: 10%;
+}
+
+main{
+    height: 100%;
+}
+
+.SobreNos{
+    align-items: center;
+    text-align: center;
+    padding: 100px;
+}
+
+.Titulo1{
+    font-weight: bold;
+}
+
+.Paragrafo1{
+    font-size: 20px;
+    align-items: center;
+    text-align: center;
+}
+
+.abaM{
+    align-items: center;
+    text-align: center;
+    float: left;
+    padding-left: 600px;
+}
+
+.abaV{
+    align-items: center;
+    text-align: center;
+    float: right;
+    padding-right: 600px;
+}
+
+.abaValores{
+    padding-top: 500px;
+}
+
+.pValores1{
+    padding-top: 100px;
+    float: left;
+    padding-left: 630px;
+}
+
+
+.pValores2{
+    padding-top: 100px;
+    float: left;
+    padding-left: 100px;
+}
+
+
+.pValores3{
+    padding-top: 100px;
+    float: left;
+    padding-left: 100px;
+}
+.video{
+    align-items: center;
+    text-align: center;
+    align-content: center;
+    padding-bottom: 100px;
+}
+
+.Contato{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    padding-bottom: 100px;
+    padding-top: 200px;
+}
+
+footer.rodape{
+    font-size: 18px;
+    background-color: gray;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+
